@@ -1,0 +1,33 @@
+.issue-box {
+  width: 85%;
+  height: 100%;
+  border: 1px solid #d8dee4;
+  margin-top: 5%;
+  border-radius: 10px;
+}
+
+.header-issue {
+  height: 65px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #f6f8fa;
+  padding-right: 2%;
+  border-bottom: 1px solid #d8dee4;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.header-issue .left-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 22%;
+  padding-left: 2%;
+}
+
+.header-issue .right-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 45%;
+}

@@ -1,0 +1,33 @@
+.issue-component {
+  height: auto;
+  padding: 8px 0px 8px 2%;
+  border-bottom: 1px solid #d8dee4;
+}
+
+.issue-component:hover {
+  background-color: #f6f8fa;
+}
+.issue-title {
+  font-weight: 600;
+}
+.status {
+  margin-left: 10px;
+  /* padding: 1px; */
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 3px;
+  border-radius: 12px;
+  border: 1px solid #d4c5f9;
+  font-weight: 500;
+  font-size: 12px;
+}
+
+.details {
+  margin-top: 5px;
+  margin-left: 2%;
+  font-size: 12px;
+}
+
+.opened-by-details {
+  margin-left: 5%;
+}
